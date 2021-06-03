@@ -14,10 +14,6 @@ Purpose of the lab:
 
 ### Node Server-Side JavaScript Code 
 ```javascript
-/*
-    CIT 281 Lab 1
-    Name: Your Name
-*/
 function square(num) {
     return num*num;
 }
