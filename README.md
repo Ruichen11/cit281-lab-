@@ -1,6 +1,6 @@
 ![luca-bravo-XJXWbfSo2f0-unsplash](https://user-images.githubusercontent.com/84296093/120624483-99493080-c415-11eb-90f5-910b79962760.jpg)
 
-# cit281-lab1
+# CIT281 Lab-1
 Purpose of the lab: 
 * Installed VScode along with extensions like Prettier (Code formatter), ESLint, GitHub Pull Requests and Issues. 
 * Created the first Node.js server-side JavaScript file.
