@@ -1,4 +1,4 @@
-![luca-bravo-XJXWbfSo2f0-unsplash.jpg](https://github.com/Ruichen11/cit281-lab1/blob/9efd29d03935b025d59153349aed82460a0f57a1/luca-bravo-XJXWbfSo2f0-unsplash.jpg)
+![luca-bravo-XJXWbfSo2f0-unsplash](https://user-images.githubusercontent.com/84296093/120624483-99493080-c415-11eb-90f5-910b79962760.jpg)
 
 # cit281-lab1
 Purpose of the lab: 
@@ -26,7 +26,8 @@ for (let i = 2; i <= 10; i+=2) {
     console.log(`Square of ${i} is ${square(i)}`);
 }
 ```
-![CIT picture.jpg](https://github.com/Ruichen11/cit281-lab1/blob/7c0f85c518862083ffc4efa3afe65e4b2f5bd375/CIT%20picture.jpg)
+![CIT picture](https://user-images.githubusercontent.com/84296093/120624598-b5e56880-c415-11eb-9e14-695f8d280489.jpg)
+
 ### What I learned in this lab:
 * Learned Window shortcuts and learned how to create a Node Server-Side JavaScript File. 
 
