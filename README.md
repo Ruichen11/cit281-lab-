@@ -27,3 +27,4 @@ for (let i = 2; i <= 10; i+=2) {
 ### What I learned in this lab:
 * Learned Window shortcuts and learned how to create a Node Server-Side JavaScript File. 
 
+[SOurcecode](https://ruichen11.github.io/Ruichen11.CIT-Minor/)
